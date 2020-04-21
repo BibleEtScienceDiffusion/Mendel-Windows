@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 4d27178c664c2c61c2aab3a6f7f7ea2c20cc66f6 Wesley Brewer <wes@fluidphysics.com> 1440557544 +0900	commit (initial): first commit to new mendel-fortran-engine repo
+4d27178c664c2c61c2aab3a6f7f7ea2c20cc66f6 9d44b474add0ce839a1b1d413bb319919a6b5b42 Wesley Brewer <wes@fluidphysics.com> 1440557830 +0900	commit: update ChangeLog to add previous git commits
+9d44b474add0ce839a1b1d413bb319919a6b5b42 4e5a46be495cc6a4da4ec3345312f739e032a5e1 Wesley Brewer <wes@fluidphysics.com> 1440558042 +0900	commit: modification to fix bug running neutral mutns with poly. ben. off

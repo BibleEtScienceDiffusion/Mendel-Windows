@@ -1,0 +1,27 @@
+Bottle v0.12.7 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:8580/
+Hit Ctrl-C to quit.
+
+127.0.0.1 - - [21/Aug/2015 14:10:35] "HEAD / HTTP/1.1" 303 0
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /mendel HTTP/1.1" 200 46376
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /static/js/jquery.highlight.js HTTP/1.1" 304 0
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /static/css/style.css HTTP/1.1" 304 0
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /static/js/bootstrap-tagsinput.min.js HTTP/1.1" 304 0
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /static/css/bootstrap-tagsinput.css HTTP/1.1" 304 0
+127.0.0.1 - - [21/Aug/2015 14:10:35] "GET /static/apps/mendel/mendel.js HTTP/1.1" 304 0
+127.0.0.1 - - [21/Aug/2015 14:10:38] "POST /confirm HTTP/1.1" 200 5262
+127.0.0.1 - - [21/Aug/2015 14:10:39] "POST /execute HTTP/1.1" 303 0
+127.0.0.1 - - [21/Aug/2015 14:10:39] "GET /case?app=mendel&cid=kf9288&jid=1 HTTP/1.1" 200 9609
+127.0.0.1 - - [21/Aug/2015 14:10:39] "GET /mendel/kf9288/tail HTTP/1.1" 200 58
+127.0.0.1 - - [21/Aug/2015 14:10:40] "GET /mendel/kf9288/tail HTTP/1.1" 200 1499
+127.0.0.1 - - [21/Aug/2015 14:10:41] "GET /mendel/kf9288/tail HTTP/1.1" 200 1684
+127.0.0.1 - - [21/Aug/2015 14:10:42] "GET /start?app=mendel HTTP/1.1" 200 46376
+127.0.0.1 - - [21/Aug/2015 14:10:51] "GET /jobs?app=mendel HTTP/1.1" 200 4894
+127.0.0.1 - - [21/Aug/2015 14:10:52] "GET /case?cid=kf9288&app=mendel&jid=1 HTTP/1.1" 200 9609
+127.0.0.1 - - [21/Aug/2015 14:10:52] "GET /mendel/kf9288/tail HTTP/1.1" 200 977
+127.0.0.1 - - [21/Aug/2015 14:10:53] "GET /mendel/kf9288/tail HTTP/1.1" 200 977
+127.0.0.1 - - [21/Aug/2015 14:10:54] "GET /output?cid=kf9288&app=mendel HTTP/1.1" 200 42816
+127.0.0.1 - - [21/Aug/2015 14:10:55] "GET /plot/0?cid=kf9288&app=mendel HTTP/1.1" 200 41598
+127.0.0.1 - - [21/Aug/2015 14:10:57] "GET /plot/5?app=mendel&cid=kf9288 HTTP/1.1" 200 28157
+127.0.0.1 - - [21/Aug/2015 14:10:58] "GET /plot/6?app=mendel&cid=kf9288 HTTP/1.1" 200 14644
+127.0.0.1 - - [21/Aug/2015 14:10:58] "GET /plot/7?app=mendel&cid=kf9288 HTTP/1.1" 200 14649

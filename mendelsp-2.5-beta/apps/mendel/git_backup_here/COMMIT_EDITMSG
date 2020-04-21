@@ -1,0 +1,38 @@
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    init_serial.f90
+#	deleted:    mendel_serial.f90
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.cproject
+#	.project
+#	fileio.o
+#	genome.mod
+#	genome.o
+#	init.mod
+#	init_serial.f90
+#	init_serial.o
+#	inputs.mod
+#	inputs.o
+#	mating.o
+#	mendel
+#	mendel_serial.f90
+#	mendel_serial.o
+#	mutation.o
+#	pbs.script
+#	polygenic.mod
+#	polygenic.o
+#	profile.o
+#	profiler.mod
+#	random_pkg.mod
+#	random_pkg.o
+#	selection.o
+#	selection_module.mod
+#	sort.o
+#	sort_module.mod
